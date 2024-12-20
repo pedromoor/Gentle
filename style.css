@@ -1,0 +1,19 @@
+/*My first lyrics sheet*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:burlywood;
+}
+h1 {
+    border: 1px dotted green;
+    color: black;
+    background-color: mediumturquoise;
+    text-align: center;
+}
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    font-style: italic;
+    text-align: center;
+    color: red;
+}
